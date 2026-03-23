@@ -1,0 +1,28 @@
+# 文档问答助手依赖包
+
+# LangChain 核心包
+langchain
+langchain-classic
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-openai
+langchain-text-splitters
+
+# PDF处理
+pypdf
+
+# 向量存储
+faiss-cpu
+
+# Embedding模型
+transformers
+sentence-transformers
+torch
+
+# 大模型接口
+openai
+
+# 其他工具
+python-dotenv
+requests
